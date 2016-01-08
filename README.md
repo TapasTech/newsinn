@@ -1,4 +1,20 @@
+## Newsinn
+
 ### Overview
+
+Newsinn is a tool to parse the primary readable content from news web pages with efficiency and accuracy.
+
+### Install
+
+`gem install newsinn`
+
+### Example
+
+`require 'newsinn'`
+
+### Contributors
+
+* China Business Network Co.,Ltd.
 
 ### License
 
